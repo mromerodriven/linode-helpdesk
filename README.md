@@ -2,9 +2,11 @@
 <img src="https://i.imgur.com/AGNFfwX.png" height="80%" width="80%" alt="Linode logo"/>
 </p>
 
+Detailed explanation coming soon (last revised 11/20/2023)
+<!--
 <h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
+--
 
 <h2>Video Demonstration</h2>
 
